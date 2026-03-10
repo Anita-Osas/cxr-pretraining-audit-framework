@@ -18,7 +18,7 @@ of clinical data quality methodology.
 | `Project_Summary.pdf` | 2-page summary of the audit — methodology, findings, and results table. Start here. |
 | `Condensed_Framework_v2.pdf` | 1-page quick reference — all six criteria, scoring rules, and classifications on one sheet |
 | `CXR_Quality_Framework_v4.docx` | Full framework document — complete criteria, sub-checks, flag templates, and worked examples |
-| `PROJECT_Final_audit_results.csv` | Complete scored spreadsheet — all 50 images, scores across 14 columns, and flag notes |
+| [Audit Results — Full Spreadsheet](https://docs.google.com/spreadsheets/d/194ja3uckrUrv_bGtgqBTrHY2w1zJ-slLyANE254WEW4/edit?usp=drivesdk) | Complete scored spreadsheet — all 50 images, scores across 14 columns, and flag notes |
 
 ---
 
@@ -125,7 +125,7 @@ every inclusion and exclusion decision, the format regulatory review requires.
 - BSc Nursing Science, Ambrose Alli University (2nd Class Upper, 2023)
 - NMCN Licensed 2025
 - 3,500+ supervised clinical hours
-- 18 months healthcare AI annotation experience
+- 7 months healthcare AI annotation experience
 - Previous portfolio: [medical-imaging-annotation-portfolio](https://github.com/Anita-Osas/medical-imaging-annotation-portfolio) — 50 chest X-rays, ~80 annotations, 5 pathologies
 - Previous portfolio: [clinical-text-annotation-portfolio](https://github.com/Anita-Osas/clinical-text-annotation-portfolio) — 550 entities, 55 relations, 18 entity types
 
